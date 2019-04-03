@@ -1,4 +1,9 @@
--- Script de pruebas del esquema UNI_KAT
+-- GEOESCRITORIO VIRTUAL V 4.0 BETA
+-- CAPA I BASE DE DATOS DE PRUEBAS
+-- TABLAS, VISTAS y FUNCIONES EN EL ESQUEMA "ADM"
+-- AUTOR. GONZALO TRINIDAD GARRIDO
+-- 11/2018
+-- VERSION FINAL
 
 -- Presenta todas las Secciones activas
 
